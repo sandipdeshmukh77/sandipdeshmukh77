@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandipdeshmukh77
+- 👋 Hi, I’m Sandip Deshmukh
 - 👀 I’m interested in OpenGL,DirectX,WebGL,Javascript
 - 🌱 I’m currently learning  OpenGL,DirectX,WebGL
 
